@@ -1,6 +1,6 @@
 # Exercicios-Java
 
-## Repositório de exercícios em Java contendo os seguintes exercicios:
+## Repositório de estudos em Java contendo os seguintes exercicios:
 
 Calcular valores;
 Obter mensagens;
