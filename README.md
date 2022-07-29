@@ -5,4 +5,5 @@
 Calcular valores; </br>
 Obter mensagens; </br>
 Emprestimos e parcelas; </br>
-Sobrecarga. </br>
+Sobrecarga; </br>
+Retornos.
