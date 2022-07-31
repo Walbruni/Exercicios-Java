@@ -14,5 +14,5 @@ public class Quadrilatero2 {
 
         return ((baseMaior+baseMenor)*altura) / 2;
     }
-    
+
 }
