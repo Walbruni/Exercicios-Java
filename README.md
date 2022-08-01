@@ -6,4 +6,7 @@ Calcular valores; </br>
 Obter mensagens; </br>
 Emprestimos e parcelas; </br>
 Sobrecarga; </br>
-Retornos.
+Retornos; </br>
+Operadores Relacionais; </br>
+Operadores Logicos; </br>
+Controle de fluxo.
