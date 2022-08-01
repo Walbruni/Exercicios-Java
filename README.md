@@ -11,4 +11,5 @@ Operadores Relacionais; </br>
 Operadores Logicos; </br>
 Controle de fluxo; </br>
 Estruturas de Repetição; </br>
-Arrays.
+Arrays; </br>
+Collections (List, Set, Map e StreamAPI).
