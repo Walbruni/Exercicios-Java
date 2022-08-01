@@ -10,4 +10,5 @@ Retornos; </br>
 Operadores Relacionais; </br>
 Operadores Logicos; </br>
 Controle de fluxo; </br>
-Estruturas de Repetição.
+Estruturas de Repetição; </br>
+Arrays.
