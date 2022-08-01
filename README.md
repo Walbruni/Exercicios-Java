@@ -9,4 +9,5 @@ Sobrecarga; </br>
 Retornos; </br>
 Operadores Relacionais; </br>
 Operadores Logicos; </br>
-Controle de fluxo.
+Controle de fluxo; </br>
+Estruturas de Repetição.
