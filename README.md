@@ -12,4 +12,5 @@ Operadores Logicos; </br>
 Controle de fluxo; </br>
 Estruturas de Repetição; </br>
 Arrays; </br>
-Collections (List, Set, Map e StreamAPI).
+Collections (List, Set, Map e StreamAPI); </br>
+Tratamento de exceções.
