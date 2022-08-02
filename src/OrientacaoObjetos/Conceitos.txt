@@ -1,0 +1,32 @@
+ CLASSE:
+ "Estrutura que abstrai um conjunto de objetos com caracteristicas similares. Define o comportamento de seus objetos
+ através de métodos e os estados possíveis deste objeto através de atributos. Descre os serviços providos por seus objetos e
+ quais informações eles podem armazenar."
+ Utilizar substantivos, nomes significativos e considerar o contexto.
+
+
+ ATRIBUTOS:
+ "Elemento de uma classe responsavel por definir sua estrutura de dados. O conjunto deste sera responsavel por
+ representar suas caracteristicas e fara parte dos objetos criados a partir de classe."
+ A diferença de atributo para variável: O atributo é o que é próprio e peculiar a alguém ou alguma coisa. Já a variável
+ está sujeita a modificações e variações, pode variar, é inconstante e instável.
+Utilizar substantivos/adjetivos, nomes significativos, observar o contexto e os tipos adequados.
+
+
+ MÉTODOS:
+ "Porção do codigo que é disponibilizada pela classe. É executado quando é feito alguma requisição a ele. Serve para
+ identificar quais serviços, ações, que a classe oferece. São responsáveis por definir e realizar um determinado comportamento."
+Pode ser utilizado ou não, a depender da situação. Existem dois métodos especiais: construtor e destrutor.
+ O metodo construtor é utilizado para a criação. Já o destrutor, serve para auxiliar na destruição do objeto.
+ A sobrecarga funciona para mudar a assinatura de acordo com a necessidade. Recebe o nome e parametros que podem ser alterados.
+ Utilizar verbos, nomes significativos e observar o contexto.
+
+ OBJETO:
+ "É a representação de um conceito/entidade do mundo real, que pode ser fisica (bola, carro, árvore, etc) ou conceitual,
+ (viagem, estoque, compra, etc) e possui um significado bem definido para um determinado software. Para esse conceito/entidade,
+ deve ser definida inicialmente uma classe a partir da qual posteriormente serão instanciados objetos distintos."
+
+ MENSAGEM:
+ "É o processo de ativação de um método de um objeto. Isto ocorre quando uma requisição (chamada) a esse método é realizada,
+ assim disparando a execução de seu comportamento descrito por sua classe. Pode também ser direcionada diretamente à classe,
+caso a requisição seja a um método estático."
